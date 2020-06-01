@@ -26,7 +26,7 @@ def get_filters():
             #input correct, ready to exit the loop
             break
         else:
-            print('\nInvalid input! Try Again.')
+            print('\nInvalid input! Check your spelling and try again!')
             #continue si quiero que se acabe
 
     # TO DO: get user input for month (all, january, february, ... , june)
